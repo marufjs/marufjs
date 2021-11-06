@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋 I'm Maruf</h1>
 <h3 align="center">A passionate front end developer from Bangladesh</h3>
 
-# YouTube [Channel](https://youtube.com/channel/UCPH3m-f9gmleXkq33G9CZKQ?sub_confirmation=1))
-![Md Maruf Sarker](./marufCover.png)
+# YouTube [Channel](https://youtube.com/channel/UCPH3m-f9gmleXkq33G9CZKQ?sub_confirmation=1)
+<div align="center">![Md Maruf Sarker](./marufCover.png)</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marufjs&label=Profile%20views&color=0e75b6&style=flat" alt="marufjs" /> </p>
 
